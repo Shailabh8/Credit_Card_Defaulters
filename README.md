@@ -1,1 +1,12 @@
 # Credit_Card_Defaulters
+
+## Steps used in the project:
+    DATA INGESTTION
+    DATA PREPROCESSING
+    MODEL SELECTION
+    MODEL TUNING
+    PREDICTION
+    LOGGING FRAMEWORK
+    DEPLOYMENT
+    
+## DEPLOYMENT PLATFORM: HEROKU
